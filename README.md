@@ -1,3 +1,7 @@
+<div style=""><br>
+  <img align="center" alt="Alex-GitHub" height="" width="" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Q6Hah6gG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/8a2ifr4ornn9koxc2sah.png">
+</div>
+
 ### Olá, eu sou o Alex Nóbrega!
 
 <!--
@@ -13,3 +17,5 @@ Atualmente estou estudando sobre desenvolvimento mobile.
   <img align="center" alt="Alex-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="Alex-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
+
+
