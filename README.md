@@ -1,11 +1,12 @@
-<div style=""><br>
-  <img align="center" alt="Alex-GitHub" height="" width="" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Q6Hah6gG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/8a2ifr4ornn9koxc2sah.png">
-</div>
-
 ### Olá, eu sou o Alex Nóbrega!
 
 <!--
 **alexrnobrega/alexrnobrega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<div style=""><br>
+  <img align="center" alt="Alex-GitHub" height="" width="" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Q6Hah6gG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/8a2ifr4ornn9koxc2sah.png">
+</div>
+
 -->
 
 Atualmente estou estudando sobre desenvolvimento mobile.
