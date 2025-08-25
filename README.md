@@ -21,5 +21,3 @@ Atualmente estou estudando sobre o desenvolvimento de aplicações híbridas.
   <img align="center" alt="Alex-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg">
 </div>
 
-[![Devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css)](https://github.com/devicons/devicon)
-Ícones por [Devicon](https://github.com/devicons/devicon)
